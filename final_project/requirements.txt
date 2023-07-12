@@ -1,0 +1,8 @@
+1. sys
+2. csv
+3. re
+4. random
+5. os
+6. datetime
+7. time
+8. Github: encryption.py (https://github.com/TheMorpheus407/Python-Lets-Code/blob/master/EncryptFiles.py)
